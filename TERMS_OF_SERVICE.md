@@ -6,7 +6,7 @@
 
 By downloading, installing, or using PeakPilot ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
-PeakPilot is operated by Luminous By Nature ("we", "us", or "our").
+PeakPilot is operated by Paul Stewart Champ ("we", "us", or "our").
 
 ---
 
@@ -111,7 +111,7 @@ OUR TOTAL LIABILITY TO YOU FOR ANY CLAIM ARISING FROM YOUR USE OF THE APP SHALL 
 
 ## 12. Governing Law
 
-These Terms are governed by and construed in accordance with the laws of **[Your Jurisdiction — e.g. England and Wales / State of California / etc.]**, without regard to conflict of law principles.
+These Terms are governed by and construed in accordance with the laws of Queensland, Australia, without regard to conflict of law principles.
 
 Any disputes shall be resolved in the courts of Queensland, Australia.
 
@@ -128,4 +128,4 @@ We may update these Terms at any time. We will notify you of material changes vi
 For questions about these Terms, contact us at:
 
 **PeakPilot Support**
-Email: legal@peakpilot.app
+Email: paulchamp1602@gmail.com

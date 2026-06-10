@@ -81,7 +81,7 @@ Depending on where you live, you may have the right to:
 - **Export** your data in a portable format
 - **Object** to certain processing activities
 
-To exercise any of these rights, contact us at: **privacy@peakpilot.app**
+To exercise any of these rights, contact us at: paulchamp1602@gmail.com
 
 We will respond within 30 days.
 
@@ -114,4 +114,4 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 If you have any questions about this Privacy Policy, please contact:
 
 **PeakPilot Support**
-Email: privacy@peakpilot.app
+Email: paulchamp1602@gmail.com
