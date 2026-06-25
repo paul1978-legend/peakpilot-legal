@@ -115,3 +115,4 @@ If you have any questions about this Privacy Policy, please contact:
 
 **PeakPilot Support**
 Email: paulchamp1602@gmail.com
+[Account Deletion](ACCOUNT_DELETION.html)
