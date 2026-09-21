@@ -1,6 +1,6 @@
 # PeakPilot Terms of Service
 
-**Last updated: June 2026**
+**Last updated: September 2026**
 
 ## 1. Acceptance of Terms
 
@@ -16,7 +16,7 @@ PeakPilot is a fitness application that:
 - Provides personalised workout video recommendations powered by the YouTube Data API v3
 - Tracks your workout history, streaks, and progress
 - Allows you to save favourite workouts to a personal library
-- Generates AI-powered weekly fitness plans (Premium subscribers only)
+- Generates weekly fitness plans (Premium subscribers only)
 
 PeakPilot does **not** provide medical advice. Content is for informational and fitness purposes only.
 
@@ -56,13 +56,15 @@ You agree not to:
 PeakPilot offers a free tier with access to core workout search and history features.
 
 ### 6.2 Premium Subscription
-Premium features (AI weekly plans, advanced recommendations) require a paid subscription. Subscription fees are billed in advance on a recurring basis (monthly or annually, as selected).
+Premium features (weekly fitness plans, multiple sessions per day, custom session length, early plan resets) require a paid subscription. Subscription fees are billed in advance on a recurring basis (monthly or annually, as selected).
 
 ### 6.3 Billing
-Payments are processed by Stripe. By subscribing, you authorise us to charge your payment method on a recurring basis until you cancel.
+Payments are processed directly by Google Play (Android) or the Apple App Store (iOS) through your device's app store billing system. We use RevenueCat to manage your subscription status and entitlements across both platforms. By subscribing, you authorise the relevant app store to charge your selected payment method on a recurring basis until you cancel.
 
 ### 6.4 Cancellation
-You may cancel your subscription at any time. Cancellation takes effect at the end of the current billing period. No refunds are issued for the unused portion of a billing period, except where required by law.
+You can cancel your subscription at any time through your Google Play or Apple ID account's subscription settings — we do not process cancellations ourselves and have no ability to cancel it on your behalf. Cancellation takes effect at the end of the current billing period, as determined by Google Play or Apple.
+
+Refunds are governed entirely by Google Play's and Apple's own refund policies. We do not process payments and cannot issue refunds ourselves — refund requests must be made directly to Google Play or Apple support.
 
 ### 6.5 Price Changes
 We reserve the right to change subscription pricing with 30 days' notice. Continued use after the effective date constitutes acceptance of the new price.
