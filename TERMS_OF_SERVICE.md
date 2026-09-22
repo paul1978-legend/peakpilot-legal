@@ -1,3 +1,7 @@
+---
+title: PeakPilot Terms of Service
+---
+
 # PeakPilot Terms of Service
 
 **Last updated: September 2026**
@@ -24,7 +28,7 @@ PeakPilot does **not** provide medical advice. Content is for informational and 
 
 ## 3. Eligibility
 
-You must be at least 13 years of age (or 16 in the European Economic Area) to use PeakPilot. By using the App, you represent that you meet this requirement.
+You must be at least 18 years of age to use PeakPilot. By using the App, you represent that you meet this requirement.
 
 ---
 

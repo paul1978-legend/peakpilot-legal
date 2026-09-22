@@ -1,3 +1,11 @@
+---
+title: PeakPilot Privacy Policy
+redirect_from:
+  - /PRIVACY_POLICY
+  - /PRIVACY_POLICY.html
+  - /PRIVACY_POLICY.md
+---
+
 # PeakPilot Privacy Policy
 
 **Last updated: September 2026**
@@ -92,7 +100,7 @@ Depending on where you live, you may have the right to:
 
 To exercise any of these rights, contact us at: paulchamp1602@gmail.com
 
-We will respond within 30 days.
+We will respond within 30 days. For step-by-step account deletion instructions, see our [Account Deletion](ACCOUNT_DELETION.html) page.
 
 **Guest Mode users:** since guest accounts have no email or password on file, we can only locate and delete your data if you contact us and can identify your device or guest ID (for example, from app support logs). We cannot look up guest data by name or email.
 
@@ -100,7 +108,7 @@ We will respond within 30 days.
 
 ## 7. Children's Privacy
 
-PeakPilot is not directed at children under 13 (or under 16 in the European Economic Area). We do not knowingly collect personal data from children. If you believe a child has provided us with personal data, please contact us and we will delete it promptly.
+PeakPilot is intended for users aged 18 and over. We do not knowingly collect personal data from anyone under 18. If you believe someone under 18 has provided us with personal data, please contact us and we will delete it promptly.
 
 ---
 
