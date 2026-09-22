@@ -1,9 +1,5 @@
 ---
 title: PeakPilot Privacy Policy
-redirect_from:
-  - /PRIVACY_POLICY
-  - /PRIVACY_POLICY.html
-  - /PRIVACY_POLICY.md
 ---
 
 # PeakPilot Privacy Policy
